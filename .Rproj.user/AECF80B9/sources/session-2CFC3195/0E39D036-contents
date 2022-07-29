@@ -1,0 +1,51 @@
+---
+title: "PHB: RNA-seq"
+author: "Nikita Telkar"
+institute: "University of British Columbia"
+date: "26 July 2022"
+output:
+  xaringan::moon_reader:
+    seal: false
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+    css: xaringan-themer.css
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+
+library(xaringanthemer)
+
+style_mono_accent(
+  base_color = "#EEAD75",
+  header_font_google = google_font("Raleway"),
+  text_font_google   = google_font("Open Sans"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+### Hello and welcome to The Precision Health Bootcamp's `RNA-seq Workshop` `r emo::ji("partying_face")`
+
+Workshop Lead: **[Nikita Telkar](https://nikita-telkar.github.io/)**  
+Workshop TAs: Nairuz El-azzabi & Alejandro Aguirre
+
+<br> 
+
+`r emo::ji("dna")` Part 1: 9:00 - 11:00 AM  
+Raw expression data --> Exploratory Data Analysis --> Filtering --> Processed (Normalized data)  
+
+`r emo::ji("bar_chart")` Part 2 : 12 noon - 2:00 PM  
+Normalized data --> Differential Expression + Dimensionality Reduction (PCA) + GO Analysis + Pathway Enrichment  
+
+---
+
+background-image: url(static/title_slide.png)
+background-size: contain
+
+---
+
+background-image: url(static/land_slide.png)
+background-size: contain
+
+---
