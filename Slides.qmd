@@ -65,7 +65,7 @@ This workshop will be an *introduction* to RNA-seq analysis, working through a *
 
 . . .
 
-![I have 5x RStudio; 2x: ggplot2, dplyr, tidyverse; 1x rmarkdown; 1x Shiny <br> that I snagged *especially* for this workshop from `rstudio::conf(2022)`](static/stickers.JPG){style="text-align: center" fig-align="center" width="465"}
+![I have 5x RStudio; 2x: ggplot2, dplyr, tidyverse; 1x rmarkdown; 1x Shiny <br> that I snagged *especially* for this workshop from `rstudio::conf(2022)`](static/stickers.JPG){fig-align="center" style="text-align: center" width="420"}
 
 <!-- ::: {style="text-align: center"}  -->
 
