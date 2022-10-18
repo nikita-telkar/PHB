@@ -1,7 +1,9 @@
 ## UBC's Precision Health Bootcamp 2-part RNA-seq Workshop 2021 
-<img src= "https://user-images.githubusercontent.com/59856969/181839760-0bda1af3-3814-4df6-8416-da099a6eff16.png" width = 150/>
+<img src= "https://user-images.githubusercontent.com/59856969/181839760-0bda1af3-3814-4df6-8416-da099a6eff16.png" width = 150/> 
 
-<br> 
+<br>
+
+> [Link to Master GitHub](https://github.com/Phillip-a-richmond/PrecisionHealthVirtualEnvironment)
 
 ### Requirements: 
 
